@@ -7,6 +7,6 @@ I also spent some time to know about webpack and and honestly it was bit annoyin
 but its just not for small projects like mine.
 
 ### About Website
-My friend operates a youtube channel Streak Gaming and I just thought it would be a great help for him and a great learning project for me.
+My friend operates a youtube channel [Streak Gaming!](https://www.youtube.com/channel/UC-TMzODlTEmB8YxOWHhazNA) and I just thought it would be a great help for him and a great learning project for me.
 I would be using following framework :-
 * [**Bulma**!](http://bulma.io) , a very lightweight CSS framework
