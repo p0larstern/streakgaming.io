@@ -1,7 +1,7 @@
 # streakgaming.io
 Website for Streak Gaming
 
-## Something I want to say
+### Something I want to say
 This is something i wanted to do as my first project to learn and playaround with CSS framework and Javascript. 
 I also spent some time to know about webpack and and honestly it was bit annoying but I realized that it's a great tool
 but its just not for small projects like mine.
