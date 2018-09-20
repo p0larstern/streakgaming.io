@@ -1,6 +1,10 @@
-#fixed {
-position: fixed;
-width: 16.6666666667%;
-left: 16.6666666667%;
-margin-top: 0px;
+#sidebar {
+    height: 100%;
+}
+
+.sticky {
+    position: sticky;    
+    position: -webkit-sticky;
+    top: 0;
+    padding-top: 0;
 }
