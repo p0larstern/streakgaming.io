@@ -1,5 +1,27 @@
 #sidebar {
+    border-top: 0;
+    margin-top: 0%;
     height: 100%;
+}
+
+.black {
+    background-color: #020202;
+}
+
+.offwhite {
+    background-color: #e5f2c9;
+}
+
+.maroon {
+    background-color: #6b2737;
+}
+
+.goldish {
+    color: #E0E0CE;
+}
+
+.red{
+    background-color: #ad343e
 }
 
 .sticky {
