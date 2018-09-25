@@ -1,7 +1,24 @@
+* {
+    margin : 0;
+    padding : 0;
+}
+
+#header {
+    font-family: 'Oswald', sans-serif;
+}
+
+#header>h1 {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-weight: 50;
+    letter-spacing: 2.5px;
+}
+
 #sidebar {
     border-top: 0;
     margin-top: 0%;
     height: 100%;
+    background-color: #ffbb00;
 }
 
 .black {
@@ -17,7 +34,7 @@
 }
 
 .goldish {
-    color: #E0E0CE;
+    color: #ffbb00;
 }
 
 .red{
